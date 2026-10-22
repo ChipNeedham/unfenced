@@ -1,5 +1,5 @@
 {
-    "name": "laravel/unfenced",
+    "name": "chipneedham/unfenced",
     "type": "library",
     "license": "MIT",
     "autoload": {
